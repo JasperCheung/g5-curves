@@ -58,7 +58,7 @@ void clear_screen( screen s ) {
 }
 
 /*======== void save_ppm() ==========
-Inputs:   screen s
+  Inputs:   screen s
          char *file 
 Returns: 
 Saves screen s as a valid ppm file using the
